@@ -1,5 +1,8 @@
 package game;
 
-public class Board {
 
+public class Board {
+	public Board(){
+		
+	}
 }
